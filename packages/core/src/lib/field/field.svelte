@@ -44,6 +44,7 @@
 <style lang="postcss">
 	.fui-field {
 		display: grid;
+		align-items: center;
 
 		&.horizontal {
 			grid-template-columns: 33% 1fr;
